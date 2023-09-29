@@ -2,7 +2,7 @@
 Imitating the PROC NLMIXED output from SAS required for Inflated Beta Regression Modeling 
 using Python.
 
-For detailed documentation on module usage and user guide follow the [link](https://github.com/pages/subhajit-dubey/inflated_beta_reg)
+For detailed documentation on module usage and user guide follow the [link](https://subhajit-dubey.github.io/inflated_beta_reg)
 
 ### SAS Code
 
