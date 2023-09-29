@@ -36,7 +36,7 @@ For detailed documentation on module usage and user guide follow the [link](http
 
 ### SAS Output:
 
-![img1](https://github.com/subhajit-dubey/inflated_beta_reg/blob/main/img/img1.jpg)
+![img1](https://github.com/subhajit-dubey/inflated_beta_reg/blob/master/img/img1.jpg)
 
 ### Python Output
 
