@@ -206,7 +206,7 @@ class InflatedBeta:
         ]
 
         # Collate the results
-        parameter_names = ["const", "Col1", "Col2", "Col3", "Col4", "pie", "phi", "kesai"]  # Replace with your parameter names
+        parameter_names = ["const", "Col1", "Col2", "Col3", "Col4", "pie", "kesai", "phi"]  # Replace with your parameter names
         all_metrics = list(zip(parameter_names, result.x, standard_errors, np.dot(df, np.ones(len(parameter_names))),
                                 t_values, p_values, confidence_intervals, self.gradient_(result.x)))
         final_dict = {
